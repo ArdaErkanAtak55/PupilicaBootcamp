@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Coffee Brewly</string>
+    <string name="karsilama">Good Morning,</string>
+    <string name="karsilamaGece">Good Night,</string>
+    <string name="adSoyad">Arda Erkan Atak!</string>
+    <string name="kategori">Categories</string>
+    <string name="cesit1">Based Drinks</string>
+    <string name="cesit2">Brewed Drinks</string>
+    <string name="satis">Best Sellers</string>
+    <string name="tumunuGor">See All</string>
+    <string name="cappucino">Cappucino</string>
+    <string name="filtre">Filter Coffee</string>
+    <string name="latte">Latte</string>
+    <string name="turkKahvesi">Turkish Coffee</string>
+    <string name="filtreFiyat">$ 1</string>
+    <string name="latteFiyat">$ 3</string>
+    <string name="cappucinoFiyat">$ 2</string>
+    <string name="turkKahvesiFiyat">$ 4</string>
+    <string name="siparisVer">Order Now</string>
+    <string name="sepetegit">Go To Cart</string>
+
+
+</resources>
